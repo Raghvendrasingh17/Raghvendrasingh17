@@ -4,7 +4,7 @@
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
 🔭 Currently working on **Next.js & TypeScript**  
 💡 Learning: **Node.js & Express.js**  
-📫 How to reach me: **[LinkedIn](https://linkedin.com/in/your-profile)**  
+📫 How to reach me: **[Bento.me](https://bento.me/raghvendrasingh)**  
 
 ---
 
@@ -26,7 +26,6 @@
 ---
 
 ## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Raghvendrasingh17)
 
