@@ -4,6 +4,9 @@
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
 🔭 Currently working on **Next.js & TypeScript**  
 💡 Learning: **Node.js & Express.js**  
+ 🔥 Ask me anything! If I’m still breathing, you’ll get a reply in seconds. 😉🚀<br>
+ ✔ Fun fact: I Always try to learn something new and then sleep till it stores in the brain_ 😎<br>
+<br />
 📫 How to reach me: **[Bento.me](https://bento.me/raghvendrasingh)**  
 
 ---
@@ -15,20 +18,18 @@
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghvendrasingh17&theme=react-dark)
 
 ---
+<br />
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🛠️</h2> 
+<p align="center"><img width="100%" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,flutter,tailwind,mongodb,mysql,aws,heroku,github,git,githubactions,vscode,postman&perline=12" /></p>
+<br />
 ---
-
+<br />
 ## 📬 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Raghvendrasingh17)
 
 ---
+<h2 align="center">📖 Read My Blogs 📖</h2>
+<div>coming soon...</div>
 
 ✨ **Thanks for visiting my profile! Keep Coding!** 🚀
