@@ -1,4 +1,4 @@
-![Profile Banner](https://your-banner-image-link.com)
+![Profile Banner]([https://your-banner-image-link.com](https://bento.me/raghvendrasingh))
 
 # 👋 Hi, I'm Raghvendra Singh!
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
@@ -26,10 +26,10 @@
 ---
 <br />
 ## 📬 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Raghvendrasingh17)
+[![GitHub]()](https://github.com/Raghvendrasingh17)
 
 ---
 <h2 align="center">📖 Read My Blogs 📖</h2>
 <div>coming soon...</div>
 
-✨ **Thanks for visiting my profile! Keep Coding!** 🚀
+                                        ✨ **Thanks for visiting my profile! Keep Coding!** 🚀
