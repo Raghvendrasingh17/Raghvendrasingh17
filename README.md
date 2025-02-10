@@ -1,5 +1,5 @@
 <img src="https://github.com/Raghvendrasingh17/Raghvendrasingh17/blob/main/raghvendra%20Cover_page.jpg" />
-# 👋 Hi, I'm Raghvendra Singh
+#              👋 Hi, I'm Raghvendra Singh
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
 🔭 Currently working on **Next.js & TypeScript**  
 💡 Learning: **Node.js & Express.js**  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔥 GitHub Stats
+##                                              🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghvendrasingh17&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghvendrasingh17&layout=compact&theme=dark)
 
