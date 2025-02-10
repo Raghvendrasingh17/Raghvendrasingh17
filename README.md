@@ -33,6 +33,6 @@
 
 ---
 <h2 align="center">📖 Read My Blogs 📖</h2>
-<div>coming soon...</div>
+<img src="https://github.com/Raghvendrasingh17/Raghvendrasingh17/blob/main/Coming%20Soon%20.jpg" />
 
                                         ✨ **Thanks for visiting my profile! Keep Coding!** 🚀
