@@ -1,8 +1,12 @@
 <img src="https://github.com/Raghvendrasingh17/Raghvendrasingh17/blob/main/raghvendra%20Cover_page.jpg" />
-#              👋 Hi, I'm Raghvendra Singh
+#  👋 Hi, I'm Raghvendra Singh
+<br />
 🚀 **Full Stack Developer** | React.js | JavaScript | UI/UX  
+<br />
 🔭 Currently working on **Next.js & TypeScript**  
+<br />
 💡 Learning: **Node.js & Express.js**  
+<br />
  🔥 Ask me anything! If I’m still breathing, you’ll get a reply in seconds. 😉🚀<br>
  ✔ Fun fact: I Always try to learn something new and then sleep till it stores in the brain_ 😎<br>
 <br />
